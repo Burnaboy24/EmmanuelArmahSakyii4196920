@@ -1,0 +1,9 @@
+td,th{
+    border: 5px solie;
+}
+form{
+    padding: 5px;
+}
+select{
+    float:left;
+}
